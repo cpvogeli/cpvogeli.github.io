@@ -8,7 +8,7 @@ permalink: homotopy/sp23
 | __Meeting Time__ | Fridays, 2:30-3:30pm |
 | __Meeting Place__ | Malott 205 |
 
-This is the webpage for HoMoToPIESS, an informal seminar for homotopically-minded graduate students at Cornell. The format is to alternate giving a series of 1-2 talks, with the first intended as an approachable introduction to the speaker's chosen topic. The organizers are [Chase Vogeli](https://e.math.cornell.edu/people/vogeli/) and [Kimball Strong](https://e.math.cornell.edu/people/Kimball_Strong/).
+This is the webpage for HoMoToPIESS, an informal seminar for homotopically-minded graduate students at Cornell. The format is to alternate giving a series of 1-2 talks, with the first intended as an approachable introduction to the speaker's chosen topic. The organizers are [Chase Vogeli](https://chasevoge.li/) and [Kimball Strong](https://e.math.cornell.edu/people/Kimball_Strong/).
 
 ## Spring 2023 Schedule
 
