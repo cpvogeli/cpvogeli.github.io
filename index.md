@@ -20,6 +20,13 @@ __Some things I'm involved in:__
 
 ---
 
+## Research
+
+__Bredon homological stability for configuration spaces of $$G$$-manifolds__,
+with Eva Belmont and J.D. Quigley \[[arxiv:2311.02459](https://arxiv.org/abs/2311.02459)\].
+
+---
+
 ## Events
 - November 11-12, 2023: [BUGCAT](https://seminars.math.binghamton.edu/BUGCAT/index.html), Binghamton, NY
 - January 3-6, 2024: [Joint Mathematics Meetings](https://www.jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program_ss47.html), San Francisco, CA
@@ -51,17 +58,17 @@ Notes on the commuting probability of a finite group and the connection to isocl
 <!-- [__Counting Symmetries with Group Actions__](assets/pdf/group-actions.pdf)  
 Notes from a class aimed at high school students taught at [Splash](https://esp.mit.edu/learn/index.html) in November 2019. -->
 
-## Undergraduate research
+<!-- --- -->
 
-In the summer of 2019, I worked on research in computational aspects of quantum groups at [Universit&auml;t des Saarlandes](https://www.uni-saarland.de/en/department/mathematics.html) in the research group of [Moritz Weber](https://www.math.uni-sb.de/ag/speicher/weberE.html), supported by a DAAD RISE scholarship and by the DFG research center [SFB-TRR 195](https://www.computeralgebra.de/sfb/).
+<!-- ## Undergraduate research -->
 
-In the summer of 2018, I worked on research in algebraic graph theory at [Imperial College London](https://www.imperial.ac.uk/mathematics) under [Joanna Fawcett](http://www.jfawcett.com/) as a part of the MIT-Imperial Research Exchange.		
+<!-- In the summer of 2019, I worked on research in computational aspects of quantum groups at [Universit&auml;t des Saarlandes](https://www.uni-saarland.de/en/department/mathematics.html) in the research group of [Moritz Weber](https://www.math.uni-sb.de/ag/speicher/weberE.html), supported by a DAAD RISE scholarship and by the DFG research center [SFB-TRR 195](https://www.computeralgebra.de/sfb/). -->
+
+<!-- In the summer of 2018, I worked on research in algebraic graph theory at [Imperial College London](https://www.imperial.ac.uk/mathematics) under [Joanna Fawcett](http://www.jfawcett.com/) as a part of the MIT-Imperial Research Exchange.		 -->
 
 ---
 
 #### __A puzzle: what comes next in the sequence?__  
 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 60, 61, 67, 71, 73, 79, 83, 89, 97, 101, 103, 107, 109, 113, 127, 131, 137, 139, 149, 151, 157, 163, 167, [???](https://oeis.org/A005180)
-
----
 
 *Das Sph&auml;renspektrum hat der liebe Gott gemacht, alles andere ist Menschenwerk.*
