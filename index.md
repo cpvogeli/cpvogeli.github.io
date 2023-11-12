@@ -28,10 +28,10 @@ with Eva Belmont and J.D. Quigley \[[arxiv:2311.02459](https://arxiv.org/abs/231
 ---
 
 ## Events
-- November 11-12, 2023: [BUGCAT](https://seminars.math.binghamton.edu/BUGCAT/index.html), Binghamton, NY
 - January 3-6, 2024: [Joint Mathematics Meetings](https://www.jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program_ss47.html), San Francisco, CA
 
 ### Past Events
+- November 11-12, 2023: [BUGCAT](https://seminars.math.binghamton.edu/BUGCAT/index.html), Binghamton, NY
 - September 18-22, 2023: [Algebraic K-Theory and Redshift](https://redshift.mathi.uni-heidelberg.de/), Mainz, DE
 - June 26-30, 2023: [Scissors Congruence, Algebraic K-theory, and Trace Methods](https://topology.math.indiana.edu/Summer2023/main.php), Bloomington, IN
 - May 5-7, 2023: [Cornell Topology Festival](https://e.math.cornell.edu/sites/topology/2023/index_2023.php), Ithaca, NY
