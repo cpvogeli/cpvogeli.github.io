@@ -10,7 +10,7 @@ I'm a Ph.D. candidate in mathematics at [Cornell University](https://math.cornel
 
 I enjoy thinking about mathematics at the interface between algebra and topology. In particular, I'm interested in equivariant homotopy theory and algebraic structures that arise therein.
 
-[__CV__](assets/pdf/cv-cv-2023-03-01.pdf) (Last updated: March 1, 2023)
+[__CV__](assets/pdf/cv-cv-2023-11-16.pdf) (Last updated: November 16, 2023)
 
 I pronounce my last name as "VOH-guh-lee" in English, but it's really [Swiss German](https://en.wiktionary.org/wiki/V%C3%B6geli) in origin.
 
