@@ -27,7 +27,7 @@ This is the webpage for HoMoToPIESS, an informal seminar for homotopically-minde
 | November 8   |  | BUGCAT Practice Talks |
 | November 15  | Mark | Condensed mathematics |
 | November 22  |  | *Thanksgiving break* |
-| November 29  | Isaac |  |
+| November 29  | Isaac | $$A_\infty$$-algebras |
 | December 6   | Isaac |  |
 
 ## Past Semesters
