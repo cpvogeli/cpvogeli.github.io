@@ -22,8 +22,9 @@ __Some things I'm involved in:__
 
 ## Research
 
+\[[arxiv:2311.02459](https://arxiv.org/abs/2311.02459)\]
 __Bredon homological stability for configuration spaces of $$G$$-manifolds__,
-with Eva Belmont and J.D. Quigley \[[arxiv:2311.02459](https://arxiv.org/abs/2311.02459)\].
+with [Eva Belmont](https://sites.google.com/case.edu/ebelmont) and [J.D. Quigley](https://quigleyjd.github.io/).
 
 ---
 
