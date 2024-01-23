@@ -28,10 +28,10 @@ with [Eva Belmont](https://sites.google.com/case.edu/ebelmont) and [J.D. Quigley
 
 ---
 
-## Events
-- January 3-6, 2024: [Joint Mathematics Meetings](https://www.jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program_ss47.html), San Francisco, CA
+<!-- ## Events -->
 
 ### Past Events
+- January 3-6, 2024: [Joint Mathematics Meetings](https://www.jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program_ss47.html), San Francisco, CA
 - November 11-12, 2023: [BUGCAT](https://seminars.math.binghamton.edu/BUGCAT/index.html), Binghamton, NY
 - September 18-22, 2023: [Algebraic K-Theory and Redshift](https://redshift.mathi.uni-heidelberg.de/), Mainz, DE
 - June 26-30, 2023: [Scissors Congruence, Algebraic K-theory, and Trace Methods](https://topology.math.indiana.edu/Summer2023/main.php), Bloomington, IN
