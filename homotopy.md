@@ -5,7 +5,7 @@ permalink: homotopy/
 ---
 ## **Ho**motopy/**Ho**mology, **Mo**del categories, **To**pos theory, and sim**P**licial, **I**nfinity-, and d**E**rived things **S**tudent **S**eminar
 
-| __Meeting Time__ | Wednesdays, 11am-12pm |
+| __Meeting Time__ | Mondays, 10-11am |
 | __Meeting Place__ | Malott 310D |
 
 This is the webpage for HoMoToPIESS, an informal seminar for homotopically-minded graduate students at Cornell. The organizers are [Chase Vogeli](https://chasevoge.li/) and [Kimball Strong](https://e.math.cornell.edu/people/Kimball_Strong/).
@@ -16,20 +16,21 @@ This semester's topic is __higher categories & higher algebra__.
 
 | Date | Speaker | Topic |
 | --- | --- | --- |
-| January 31 | | *Organizational meeting* |
-| February 7 | | |
-| February 14 | | |
-| February 21 | | |
-| February 28 | | |
-| March 6 | | |
-| March 13 | | |
-| March 20 | | |
-| March 27 | | |
-| April 3 | | *Spring break* |
-| April 10 | | |
-| April 17 | | |
-| April 24 | | |
-| May 1 | | |
+| January 29  | | *Organizational meeting* |
+| February 5  | | |
+| February 12 | | |
+| February 19 | | |
+| February 26 | | *February break* |
+| March 4 | | |
+| March 11 | | |
+| March 18 | | |
+| March 25 | | |
+| April 1 | | *Spring break* |
+| April 8 | | |
+| April 15 | | |
+| April 22 | | |
+| April 29 | | |
+| May 6 | | |
 
 ## Past Semesters
 
