@@ -16,8 +16,7 @@ This semester's topic is __higher categories & higher algebra__.
 
 | Date | Speaker | Topic |
 | --- | --- | --- |
-| January 29  | | *Organizational meeting* |
-| February 5  | | |
+| February 5  | | *Organizational meeting* |
 | February 12 | | |
 | February 19 | | |
 | February 26 | | *February break* |
