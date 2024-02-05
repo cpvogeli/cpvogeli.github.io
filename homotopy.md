@@ -16,16 +16,16 @@ This semester's topic is __higher categories & higher algebra__.
 
 | Date | Speaker | Topic |
 | --- | --- | --- |
-| February 5  | | *Organizational meeting* |
-| February 12 | | |
-| February 19 | | |
+| February 5  |  | *Organizational meeting* |
+| February 12 | Kimball | Survey of $$\infty$$-categories |
+| February 19 | Varinderjit | Relative categories & derived functors |
 | February 26 | | *February break* |
-| March 4 | | |
-| March 11 | | |
-| March 18 | | |
-| March 25 | | |
+| March 4 | Thea | Simplicial sets, nerves, & Kan complexes I |
+| March 11 | Chase | Simplicial sets, nerves, & Kan complexes II |
+| March 18 | Guanyu | Quasicategories I |
+| March 25 | Kimball | Quasicategories II |
 | April 1 | | *Spring break* |
-| April 8 | | |
+| April 8 | Chase | Survey of spectra |
 | April 15 | | |
 | April 22 | | |
 | April 29 | | |

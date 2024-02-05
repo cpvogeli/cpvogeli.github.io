@@ -28,7 +28,10 @@ with [Eva Belmont](https://sites.google.com/case.edu/ebelmont) and [J.D. Quigley
 
 ---
 
-<!-- ## Events -->
+## Events
+
+- April 12-14, 2024: [Graduate Student Topology and Geometry Conference](https://sites.google.com/view/gstgc2024msu/), East Lansing, MI
+- May 3-5, 2024: [Cornell Topology Festival](https://e.math.cornell.edu/sites/topology/2024/index_2024.php), Ithaca, NY
 
 ### Past Events
 - January 3-6, 2024: [Joint Mathematics Meetings](https://www.jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program_ss47.html), San Francisco, CA
