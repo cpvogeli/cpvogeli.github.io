@@ -20,8 +20,8 @@ This semester's topic is __higher categories & higher algebra__.
 | February 12 | Kimball | Survey of $$\infty$$-categories |
 | February 19 | Varinderjit | Relative categories & derived functors |
 | February 26 | | *February break* |
-| March 4 | Thea | Simplicial sets, nerves, & Kan complexes I |
-| March 11 | Chase | Simplicial sets, nerves, & Kan complexes II |
+| March 4 | Thea | Simplicial sets & nerves |
+| March 11 | Chase | Kan complexes |
 | March 18 | Guanyu | Quasicategories I |
 | March 25 | Kimball | Quasicategories II |
 | April 1 | | *Spring break* |

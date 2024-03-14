@@ -10,12 +10,12 @@ I'm a Ph.D. candidate in mathematics at [Cornell University](https://math.cornel
 
 I enjoy thinking about mathematics at the interface between algebra and topology. In particular, I'm interested in equivariant homotopy theory and algebraic structures that arise therein.
 
-[__CV__](assets/pdf/cv-cv-2023-11-16.pdf) (Last updated: November 16, 2023)
+[__CV__](assets/pdf/cv-cv-2024-03-05.pdf) (Last updated: March 5, 2024)
 
 I pronounce my last name as "VOH-guh-lee" in English, but it's really [Swiss German](https://en.wiktionary.org/wiki/V%C3%B6geli) in origin.
 
 __Some things I'm involved in:__
-- I organize the <a href="https://sites.google.com/cornell.edu/cornell-drp">Cornell Directed Reading Program</a> along with Alekos Robotis.
+- I organize the <a href="https://sites.google.com/cornell.edu/cornell-drp">Cornell Directed Reading Program</a> along with [Alekos Robotis](https://aarobotis.github.io/).
 - I organize [HoMoToPIESS](homotopy) along with [Kimball Strong](https://e.math.cornell.edu/people/Kimball_Strong/).
 
 ---
