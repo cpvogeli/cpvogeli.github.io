@@ -26,9 +26,9 @@ This semester's topic is __higher categories & higher algebra__.
 | March 25 | Kimball | Quasicategories II |
 | April 1 | | *Spring break* |
 | April 8 | Chase | Survey of spectra |
-| April 15 | | |
-| April 22 | | |
-| April 29 | | |
+| April 15 | | Generalized cohomology theories |
+| April 22 | | Loop spaces & operads |
+| April 29 | | Infinite loop spaces |
 | May 6 | | |
 
 ## Past Semesters
