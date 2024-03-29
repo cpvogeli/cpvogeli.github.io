@@ -25,10 +25,10 @@ This semester's topic is __higher categories & higher algebra__.
 | March 18 | Guanyu | Quasicategories I |
 | March 25 | Kimball | Quasicategories II |
 | April 1 | | *Spring break* |
-| April 8 | Chase | Survey of spectra |
-| April 15 | Riccardo | Generalized cohomology theories |
-| April 22 | | Loop spaces & operads |
-| April 29 | | Infinite loop spaces |
+| April 8 | | *Eclipse day* |
+| April 15 | Chase | Survey of spectra |
+| April 22 | Riccardo | Generalized cohomology theories |
+| April 29 | Varinderjit | Loop spaces & operads |
 | May 6 | Chase |  |
 
 ## Past Semesters
