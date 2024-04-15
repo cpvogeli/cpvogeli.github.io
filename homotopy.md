@@ -26,7 +26,7 @@ This semester's topic is __higher categories & higher algebra__.
 | March 25 | Kimball | Quasicategories II |
 | April 1 | | *Spring break* |
 | April 8 | | *Eclipse day* |
-| April 15 | Chase | Survey of spectra |
+| April 15 | Chase | Survey of stable homotopy theory |
 | April 22 | Riccardo | Generalized cohomology theories |
 | April 29 | Varinderjit | Loop spaces & operads |
 | May 6 | Chase |  |

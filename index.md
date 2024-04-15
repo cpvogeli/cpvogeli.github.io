@@ -22,29 +22,28 @@ __Some things I'm involved in:__
 
 ## Research
 
-\[[arxiv:2311.02459](https://arxiv.org/abs/2311.02459)\]
-__Bredon homological stability for configuration spaces of $$G$$-manifolds__,
+[__Bredon homological stability for configuration spaces of $$G$$-manifolds__](https://arxiv.org/abs/2311.02459),
 with [Eva Belmont](https://sites.google.com/case.edu/ebelmont) and [J.D. Quigley](https://quigleyjd.github.io/).
 
 ---
 
 ## Events
-
-- April 12-14, 2024: [Graduate Student Topology and Geometry Conference](https://sites.google.com/view/gstgc2024msu/), East Lansing, MI
 - May 3-5, 2024: [Cornell Topology Festival](https://e.math.cornell.edu/sites/topology/2024/index_2024.php), Ithaca, NY
 
 ### Past Events
+- April 12-14, 2024: [Graduate Student Topology and Geometry Conference](https://sites.google.com/view/gstgc2024msu/), East Lansing, MI
 - January 3-6, 2024: [Joint Mathematics Meetings](https://www.jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program_ss47.html), San Francisco, CA
 - November 11-12, 2023: [BUGCAT](https://seminars.math.binghamton.edu/BUGCAT/index.html), Binghamton, NY
 - September 18-22, 2023: [Algebraic K-Theory and Redshift](https://redshift.mathi.uni-heidelberg.de/), Mainz, DE
 - June 26-30, 2023: [Scissors Congruence, Algebraic K-theory, and Trace Methods](https://topology.math.indiana.edu/Summer2023/main.php), Bloomington, IN
 - May 5-7, 2023: [Cornell Topology Festival](https://e.math.cornell.edu/sites/topology/2023/index_2023.php), Ithaca, NY
-- April 15-16, 2023: [Mid-Atlantic Topology Conference](https://sites.google.com/view/mid-atlantic-topology/home), Philadelphia, PA
-- November 5-6, 2022: [BUGCAT](https://seminars.math.binghamton.edu/BUGCAT/index.html), Binghamton, NY
-- September 26-30, 2022: [European Autumn School in Topology](https://www.math.ru.nl/~sagave/east2022/), Utrecht, NL
-- August 8-11, 2022: [Communicating Mathematics](https://sites.google.com/view/communicating-math/), Ithaca, NY
-- June 27-30, 2022: [Homotopy Theory with Applications to Arithmetic and Geometry](http://www.fields.utoronto.ca/activities/21-22/homotopy), Toronto, ON
-- May 6-8, 2022: [Cornell Topology Festival](https://e.math.cornell.edu/sites/topology/2022/index_2022.php), Ithaca, NY
+
+<!-- - April 15-16, 2023: [Mid-Atlantic Topology Conference](https://sites.google.com/view/mid-atlantic-topology/home), Philadelphia, PA -->
+<!-- - November 5-6, 2022: [BUGCAT](https://seminars.math.binghamton.edu/BUGCAT/index.html), Binghamton, NY -->
+<!-- - September 26-30, 2022: [European Autumn School in Topology](https://www.math.ru.nl/~sagave/east2022/), Utrecht, NL -->
+<!-- - August 8-11, 2022: [Communicating Mathematics](https://sites.google.com/view/communicating-math/), Ithaca, NY -->
+<!-- - June 27-30, 2022: [Homotopy Theory with Applications to Arithmetic and Geometry](http://www.fields.utoronto.ca/activities/21-22/homotopy), Toronto, ON -->
+<!-- - May 6-8, 2022: [Cornell Topology Festival](https://e.math.cornell.edu/sites/topology/2022/index_2022.php), Ithaca, NY -->
 
 ---
 
