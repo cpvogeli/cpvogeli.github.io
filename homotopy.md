@@ -29,7 +29,7 @@ This semester's topic is __higher categories & higher algebra__.
 | April 15 | Chase | Survey of stable homotopy theory |
 | April 22 | Riccardo | Generalized cohomology theories |
 | April 29 | Varinderjit | Loop spaces & operads |
-| May 6 | Chase |  |
+| May 6 | Chase | $$\mathbb{E}_\infty$$-groups & spectra |
 
 ## Past Semesters
 
