@@ -22,6 +22,9 @@ __Some things I'm involved in:__
 
 ## Research
 
+[__The Galois-equivariant $$K$$-theory of finite fields__](https://arxiv.org/abs/2406.19481),
+with [David Chan](https://sites.google.com/view/davidchanmath).
+
 [__Bredon homological stability for configuration spaces of $$G$$-manifolds__](https://arxiv.org/abs/2311.02459),
 with [Eva Belmont](https://sites.google.com/case.edu/ebelmont) and [J.D. Quigley](https://quigleyjd.github.io/).
 
@@ -36,8 +39,8 @@ with [Eva Belmont](https://sites.google.com/case.edu/ebelmont) and [J.D. Quigley
 - January 3-6, 2024: [Joint Mathematics Meetings](https://www.jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program_ss47.html), San Francisco, CA
 - November 11-12, 2023: [BUGCAT](https://seminars.math.binghamton.edu/BUGCAT/index.html), Binghamton, NY
 - September 18-22, 2023: [Algebraic K-Theory and Redshift](https://redshift.mathi.uni-heidelberg.de/), Mainz, DE
-- June 26-30, 2023: [Scissors Congruence, Algebraic K-theory, and Trace Methods](https://topology.math.indiana.edu/Summer2023/main.php), Bloomington, IN
 
+<!-- - June 26-30, 2023: [Scissors Congruence, Algebraic K-theory, and Trace Methods](https://topology.math.indiana.edu/Summer2023/main.php), Bloomington, IN -->
 <!-- - May 5-7, 2023: [Cornell Topology Festival](https://e.math.cornell.edu/sites/topology/2023/index_2023.php), Ithaca, NY -->
 <!-- - April 15-16, 2023: [Mid-Atlantic Topology Conference](https://sites.google.com/view/mid-atlantic-topology/home), Philadelphia, PA -->
 <!-- - November 5-6, 2022: [BUGCAT](https://seminars.math.binghamton.edu/BUGCAT/index.html), Binghamton, NY -->
