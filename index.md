@@ -22,10 +22,10 @@ __Some things I'm involved in:__
 
 ## Research
 
-[__The Galois-equivariant $$K$$-theory of finite fields__](https://arxiv.org/abs/2406.19481),
+__The Galois-equivariant $$K$$-theory of finite fields__ [[arxiv:2406.19481](https://arxiv.org/abs/2406.19481)] <br>
 with [David Chan](https://sites.google.com/view/davidchanmath).
 
-[__Bredon homological stability for configuration spaces of $$G$$-manifolds__](https://arxiv.org/abs/2311.02459),
+__Bredon homological stability for configuration spaces of $$G$$-manifolds__ [[arxiv:2311.02459](https://arxiv.org/abs/2311.02459)], <br>
 with [Eva Belmont](https://sites.google.com/case.edu/ebelmont) and [J.D. Quigley](https://quigleyjd.github.io/).
 
 ---
