@@ -25,20 +25,21 @@ __Some things I'm involved in:__
 __The Galois-equivariant $$K$$-theory of finite fields__ [[arxiv:2406.19481](https://arxiv.org/abs/2406.19481)] <br>
 with [David Chan](https://sites.google.com/view/davidchanmath).
 
-__Bredon homological stability for configuration spaces of $$G$$-manifolds__ [[arxiv:2311.02459](https://arxiv.org/abs/2311.02459)], <br>
+__Bredon homological stability for configuration spaces of $$G$$-manifolds__ [[arxiv:2311.02459](https://arxiv.org/abs/2311.02459)] <br>
 with [Eva Belmont](https://sites.google.com/case.edu/ebelmont) and [J.D. Quigley](https://quigleyjd.github.io/).
 
 ---
 
 ## Events
-- October 19-20, 2024: [AMS Fall Eastern Sectional Meeting](https://www.ams.org/meetings/sectional/2317_program_ss10.html), Albany, NY
+- September 2024: [Binghamton University Topology and Geometry Seminar](https://www2.math.binghamton.edu/p/seminars/topsem), Binghamton, NY
+- October 2024: [AMS Fall Eastern Sectional Meeting](https://www.ams.org/meetings/sectional/2317_program_ss10.html), Albany, NY
 
 ### Past Events
-- May 3-5, 2024: [Cornell Topology Festival](https://e.math.cornell.edu/sites/topology/2024/index_2024.php), Ithaca, NY
-- April 12-14, 2024: [Graduate Student Topology and Geometry Conference](https://sites.google.com/view/gstgc2024msu/), East Lansing, MI
-- January 3-6, 2024: [Joint Mathematics Meetings](https://www.jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program_ss47.html), San Francisco, CA
-- November 11-12, 2023: [BUGCAT](https://seminars.math.binghamton.edu/BUGCAT/index.html), Binghamton, NY
-- September 18-22, 2023: [Algebraic K-Theory and Redshift](https://redshift.mathi.uni-heidelberg.de/), Mainz, DE
+- May 2024: [Cornell Topology Festival](https://e.math.cornell.edu/sites/topology/2024/index_2024.php), Ithaca, NY
+- April 2024: [Graduate Student Topology and Geometry Conference](https://sites.google.com/view/gstgc2024msu/), East Lansing, MI
+- January 2024: [Joint Mathematics Meetings](https://www.jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program_ss47.html), San Francisco, CA
+- November 2023: [BUGCAT](https://seminars.math.binghamton.edu/BUGCAT/index.html), Binghamton, NY
+- September 2023: [Algebraic K-Theory and Redshift](https://redshift.mathi.uni-heidelberg.de/), Mainz, DE
 
 <!-- - June 26-30, 2023: [Scissors Congruence, Algebraic K-theory, and Trace Methods](https://topology.math.indiana.edu/Summer2023/main.php), Bloomington, IN -->
 <!-- - May 5-7, 2023: [Cornell Topology Festival](https://e.math.cornell.edu/sites/topology/2023/index_2023.php), Ithaca, NY -->
