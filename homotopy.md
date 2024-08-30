@@ -5,18 +5,36 @@ permalink: homotopy/
 ---
 ## **Ho**motopy/**Ho**mology, **Mo**del categories, **To**pos theory, and sim**P**licial, **I**nfinity-, and d**E**rived things **S**tudent **S**eminar
 
-| __Meeting Time__ | TBD |
-| __Meeting Place__ | TBD |
+| __Meeting Time__ | Fridays, 11am-12pm |
+| __Meeting Place__ | Malott 310D |
 
 This is the webpage for HoMoToPIESS, an informal seminar for homotopically-minded graduate students at Cornell. The organizers are [Chase Vogeli](https://chasevoge.li/) and [Kimball Strong](https://e.math.cornell.edu/people/Kimball_Strong/).
 
-This semester's topic is __TBD__.
+This semester's topic is __algebraic $$K$$-theory__. Some references for the material we will discuss include:
+- Quillen [On the cohomology and $$K$$-theory of the general linear groups over a finite field](https://www.jstor.org/stable/1970825)
+- Weibel, [The $$K$$_book: an introduction to algebraic $$K$$-theory](https://sites.math.rutgers.edu/~weibel/Kbook.html)
+- Waldhausen, [Algebraic $$K$$-theory of spaces](https://www.math.uni-bielefeld.de/~fw/algebraic_K_theory_of_spaces.pdf)
+- Zakharevich, [The annihilator of the Lefschetz motive](https://projecteuclid.org/journals/duke-mathematical-journal/volume-166/issue-11/The-annihilator-of-the-Lefschetz-motive/10.1215/00127094-0000016X.full)
 
-## Spring 2024 Schedule
+## Fall 2024 Schedule
 
-| Date | Speaker | Topic |
-| --- | --- | --- |
-| | | |
+| Date | Speaker | Topic | Reference |
+| --- | --- | --- | --- |
+| August 30 | | *Organizational meeting* | |
+| September 6 | Chase | Survey of $$K$$-theory | Weibel II |
+| September 13 | | | |
+| September 20 | | | |
+| September 27 | | | |
+| October 4 | | | |
+| October 11 | | | |
+| October 18 | | | |
+| October 25 | | | |
+| November 1 | | | |
+| November 8 | | | |
+| November 15 | | | |
+| November 22 | | | |
+| November 29 | | *Thanksgiving break* | |
+| December 6 | | | |
 
 ## Past Semesters
 
