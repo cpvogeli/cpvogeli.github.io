@@ -23,11 +23,11 @@ This semester's topic is __algebraic $$K$$-theory__. Some references for the mat
 | August 30 | | *Organizational meeting* | |
 | September 6 | Chase | Survey of $$K$$-theory | Weibel II.2, II.7, II.9, III.1 |
 | September 13 | Isaac | Topological $$K$$-theory | |
-| September 20 | | Quillen's +-construction | Weibel IV.1 |
-| September 27 | | $$K$$-theory of finite fields | Quillen, Weibel IV.1.12-13 |
+| September 20 | Riccardo | Quillen's +-construction | Weibel IV.1 |
+| September 27 | Guanyu | $$K$$-theory of finite fields | Quillen, Weibel IV.1.12-13 |
 | October 4 | Chase | $$K$$-theory of $$\mathbb{Z}$$ | Weibel VI.10 |
-| October 11 | | Waldhausen $$K$$-theory I | |
-| October 18 | | Waldhausen $$K$$-theory II | |
+| October 11 | Thea | Waldhausen $$K$$-theory I | |
+| October 18 | Kimball | Waldhausen $$K$$-theory II | |
 | October 25 | | | |
 | November 1 | | | |
 | November 8 | | | |
