@@ -26,13 +26,13 @@ This semester's topic is __algebraic $$K$$-theory__. Some references for the mat
 | September 20 | Riccardo | Quillen's +-construction | Weibel IV.1 |
 | September 27 | Guanyu | $$K$$-theory of finite fields | Quillen, Weibel IV.1.12-13 |
 | October 4 | Chase | $$K$$-theory of $$\mathbb{Z}$$ | Weibel VI.10 |
-| October 11 | Thea | Waldhausen $$K$$-theory I | |
-| October 18 | Kimball | Waldhausen $$K$$-theory II | |
-| October 25 | | | |
-| November 1 | | | |
-| November 8 | | | |
-| November 15 | | | |
-| November 22 | | | |
+| October 11 | | *No talk* | |
+| October 18 | Thea | Waldhausen $$K$$-theory I | Waldhausen, Weibel II.9, IV.8 |
+| October 25 | Kimball | Waldhausen $$K$$-theory II | Waldhausen, Weibel II.9, IV.8 |
+| November 1 | | Group completion | Weibel IV.4 |
+| November 8 | | Comparison of constructions | Weibel IV.7, Waldhausen 1.9 |
+| November 15 | | Trace methods I | |
+| November 22 | | Trace methods II | |
 | November 29 | | *Thanksgiving break* | |
 | December 6 | | | |
 
