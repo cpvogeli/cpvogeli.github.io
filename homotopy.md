@@ -32,9 +32,9 @@ This semester's topic is __algebraic $$K$$-theory__. Some references for the mat
 | November 1 | Chase | Group completion | Weibel IV.4 |
 | November 8 | Guanyu | Comparison of constructions | Weibel IV.7, Waldhausen 1.9 |
 | November 15 | Isaac | Trace methods I | |
-| November 22 | | Trace methods II | |
+| November 22 | Chase | Trace methods II | |
 | November 29 | | *Thanksgiving break* | |
-| December 6 | | | |
+| December 6 | Kimball | Universal property | |
 
 ## Past Semesters
 
