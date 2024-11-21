@@ -8,9 +8,13 @@ layout: default
 
 I'm a Ph.D. candidate in mathematics at [Cornell University](https://math.cornell.edu), advised by [Inna Zakharevich](https://pi.math.cornell.edu/~zakh). 
 
-I enjoy thinking about mathematics at the interface between algebra and topology. In particular, I'm interested in equivariant homotopy theory and algebraic structures that arise therein.
+I enjoy thinking about mathematics at the interface between algebra and topology. In particular, I'm interested in
 
-[__CV__](assets/pdf/cv-cv-2024-03-05.pdf) (Last updated: March 5, 2024)
+- equivariant stable homotopy theory,
+- algebraic K-theory, and
+- homological methods in finite group theory.
+
+[__CV__](assets/pdf/cv-cv-2024-11-10.pdf) (Last updated: November 10, 2024)
 
 I pronounce my last name as "VOH-guh-lee" in English, but it's really [Swiss German](https://en.wiktionary.org/wiki/V%C3%B6geli) in origin.
 
@@ -22,16 +26,20 @@ __Some things I'm involved in:__
 
 ## Research
 
-__The Galois-equivariant $$K$$-theory of finite fields__ [[arxiv:2406.19481](https://arxiv.org/abs/2406.19481)] <br>
-with [David Chan](https://sites.google.com/view/davidchanmath).
+__The Galois-equivariant $$K$$-theory of finite fields__ [[arXiv:2406.19481](https://arxiv.org/abs/2406.19481)] <br>
+with [David Chan](https://sites.google.com/view/davidchanmath). To appear in *Proceedings of the London Mathematical Society*.
 
-__Bredon homological stability for configuration spaces of $$G$$-manifolds__ [[arxiv:2311.02459](https://arxiv.org/abs/2311.02459)] <br>
+__Bredon homological stability for configuration spaces of $$G$$-manifolds__ [[arXiv:2311.02459](https://arxiv.org/abs/2311.02459)] <br>
 with [Eva Belmont](https://sites.google.com/case.edu/ebelmont) and [J.D. Quigley](https://quigleyjd.github.io/).
+
+__Uniformly vertex-transitive graphs__ [[arXiv:1912.00060](https://arxiv.org/abs/1912.00060)] <br>
+with Simon Schmidt and [Moritz Weber](https://www.uni-saarland.de/lehrstuhl/weber-moritz.html).
 
 ---
 
 ## Events
 - December 2024: [Hot Topics: Life after the Telescope Conjecture](https://www.slmath.org/workshops/1103), Berkeley, CA
+- April 2025: University at Albany Algebra/Topology Seminar, Albany, NY
 - May 2025: [Cornell Topology Festival](https://e.math.cornell.edu/sites/topology/2025/index_2025.php), Ithaca, NY
 
 <!-- ### Past Events -->

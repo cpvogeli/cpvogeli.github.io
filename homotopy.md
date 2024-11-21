@@ -11,10 +11,11 @@ permalink: homotopy/
 This is the webpage for HoMoToPIESS, an informal seminar for homotopically-minded graduate students at Cornell. The organizers are [Chase Vogeli](https://chasevoge.li/) and [Kimball Strong](https://e.math.cornell.edu/people/Kimball_Strong/).
 
 This semester's topic is __algebraic $$K$$-theory__. Some references for the material we will discuss include:
+- Blumberg--Gepner--Tabuada, [A universal characterization of higher algebraic K-theory](https://arxiv.org/abs/1001.2282)
+- Loday, [Cyclic Homology](https://link.springer.com/book/10.1007/978-3-662-11389-9)
 - Quillen, [On the cohomology and $$K$$-theory of the general linear groups over a finite field](https://www.jstor.org/stable/1970825)
 - Weibel, [The $$K$$-book: an introduction to algebraic $$K$$-theory](https://sites.math.rutgers.edu/~weibel/Kbook.html)
 - Waldhausen, [Algebraic $$K$$-theory of spaces](https://www.math.uni-bielefeld.de/~fw/algebraic_K_theory_of_spaces.pdf)
-- Zakharevich, [The annihilator of the Lefschetz motive](https://projecteuclid.org/journals/duke-mathematical-journal/volume-166/issue-11/The-annihilator-of-the-Lefschetz-motive/10.1215/00127094-0000016X.full)
 
 ## Fall 2024 Schedule
 
