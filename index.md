@@ -26,23 +26,27 @@ __Some things I'm involved in:__
 
 ## Research
 
-__The Galois-equivariant $$K$$-theory of finite fields__ [[arXiv:2406.19481](https://arxiv.org/abs/2406.19481)] <br>
-with [David Chan](https://sites.google.com/view/davidchanmath). To appear in *Proceedings of the London Mathematical Society*.
+__The Galois-equivariant $$K$$-theory of finite fields__ <br> 
+with [David Chan](https://sites.google.com/view/davidchanmath). *Proceedings of the London Mathematical Society* (2025). <br>
+[[arXiv:2406.19481](https://arxiv.org/abs/2406.19481)] [[doi:10.1112/plms.70012](https://doi.org/10.1112/plms.70012)]
 
-__Bredon homological stability for configuration spaces of $$G$$-manifolds__ [[arXiv:2311.02459](https://arxiv.org/abs/2311.02459)] <br>
-with [Eva Belmont](https://sites.google.com/case.edu/ebelmont) and [J.D. Quigley](https://quigleyjd.github.io/).
+__Bredon homological stability for configuration spaces of $$G$$-manifolds__ <br>
+with [Eva Belmont](https://sites.google.com/case.edu/ebelmont) and [J.D. Quigley](https://quigleyjd.github.io/). <br>
+[[arXiv:2311.02459](https://arxiv.org/abs/2311.02459)]
 
-__Uniformly vertex-transitive graphs__ [[arXiv:1912.00060](https://arxiv.org/abs/1912.00060)] <br>
-with Simon Schmidt and [Moritz Weber](https://www.uni-saarland.de/lehrstuhl/weber-moritz.html).
+__Uniformly vertex-transitive graphs__ <br>
+with Simon Schmidt and [Moritz Weber](https://www.uni-saarland.de/lehrstuhl/weber-moritz.html). <br>
+[[arXiv:1912.00060](https://arxiv.org/abs/1912.00060)]
 
 ---
 
 ## Events
-- December 2024: [Hot Topics: Life after the Telescope Conjecture](https://www.slmath.org/workshops/1103), Berkeley, CA
+- March 2025: University of Virginia Topology Seminar, Charlottesville, VA
 - April 2025: University at Albany Algebra/Topology Seminar, Albany, NY
 - May 2025: [Cornell Topology Festival](https://e.math.cornell.edu/sites/topology/2025/index_2025.php), Ithaca, NY
 
 <!-- ### Past Events -->
+<!-- - December 2024: [Hot Topics: Life after the Telescope Conjecture](https://www.slmath.org/workshops/1103), Berkeley, CA -->
 <!-- - October 2024: [AMS Fall Eastern Sectional Meeting](https://www.ams.org/meetings/sectional/2317_program_ss10.html), Albany, NY -->
 <!-- - September 2024: [Binghamton University Topology and Geometry Seminar](https://www2.math.binghamton.edu/p/seminars/topsem), Binghamton, NY -->
 <!-- - May 2024: [Cornell Topology Festival](https://e.math.cornell.edu/sites/topology/2024/index_2024.php), Ithaca, NY -->
