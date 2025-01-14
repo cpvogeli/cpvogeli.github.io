@@ -41,6 +41,7 @@ with Simon Schmidt and [Moritz Weber](https://www.uni-saarland.de/lehrstuhl/webe
 ---
 
 ## Events
+- March 2025: [Upstate New York Topology Seminar](https://sites.google.com/view/unytsbinghamton/home), Binghamton, NY
 - March 2025: University of Virginia Topology Seminar, Charlottesville, VA
 - April 2025: University at Albany Algebra/Topology Seminar, Albany, NY
 - May 2025: [Cornell Topology Festival](https://e.math.cornell.edu/sites/topology/2025/index_2025.php), Ithaca, NY
