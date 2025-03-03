@@ -20,7 +20,8 @@ I pronounce my last name as "VOH-guh-lee" in English, but it's really [Swiss Ger
 
 __Some things I'm involved in:__
 - I organize the <a href="https://sites.google.com/cornell.edu/cornell-drp">Cornell Directed Reading Program</a> along with [Alekos Robotis](https://aarobotis.github.io/).
-- I organize [HoMoToPIESS](homotopy) along with [Kimball Strong](https://e.math.cornell.edu/people/Kimball_Strong/).
+
+<!-- - I organize [HoMoToPIESS](homotopy) along with [Kimball Strong](https://e.math.cornell.edu/people/Kimball_Strong/). -->
 
 ---
 
@@ -41,12 +42,12 @@ with Simon Schmidt and [Moritz Weber](https://www.uni-saarland.de/lehrstuhl/webe
 ---
 
 ## Events
-- March 2025: [Upstate New York Topology Seminar](https://sites.google.com/view/unytsbinghamton/home), Binghamton, NY
 - March 2025: University of Virginia Topology Seminar, Charlottesville, VA
 - April 2025: University at Albany Algebra/Topology Seminar, Albany, NY
 - May 2025: [Cornell Topology Festival](https://e.math.cornell.edu/sites/topology/2025/index_2025.php), Ithaca, NY
 
 <!-- ### Past Events -->
+<!-- - March 2025: [Upstate New York Topology Seminar](https://sites.google.com/view/unytsbinghamton/home), Binghamton, NY -->
 <!-- - December 2024: [Hot Topics: Life after the Telescope Conjecture](https://www.slmath.org/workshops/1103), Berkeley, CA -->
 <!-- - October 2024: [AMS Fall Eastern Sectional Meeting](https://www.ams.org/meetings/sectional/2317_program_ss10.html), Albany, NY -->
 <!-- - September 2024: [Binghamton University Topology and Geometry Seminar](https://www2.math.binghamton.edu/p/seminars/topsem), Binghamton, NY -->
@@ -55,7 +56,6 @@ with Simon Schmidt and [Moritz Weber](https://www.uni-saarland.de/lehrstuhl/webe
 - January 2024: [Joint Mathematics Meetings](https://www.jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program_ss47.html), San Francisco, CA -->
 <!-- - November 2023: [BUGCAT](https://seminars.math.binghamton.edu/BUGCAT/index.html), Binghamton, NY -->
 <!-- - September 2023: [Algebraic K-Theory and Redshift](https://redshift.mathi.uni-heidelberg.de/), Mainz, DE -->
-
 <!-- - June 26-30, 2023: [Scissors Congruence, Algebraic K-theory, and Trace Methods](https://topology.math.indiana.edu/Summer2023/main.php), Bloomington, IN -->
 <!-- - May 5-7, 2023: [Cornell Topology Festival](https://e.math.cornell.edu/sites/topology/2023/index_2023.php), Ithaca, NY -->
 <!-- - April 15-16, 2023: [Mid-Atlantic Topology Conference](https://sites.google.com/view/mid-atlantic-topology/home), Philadelphia, PA -->
