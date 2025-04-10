@@ -42,13 +42,14 @@ with Simon Schmidt and [Moritz Weber](https://www.uni-saarland.de/lehrstuhl/webe
 ---
 
 ## Events
-- March 2025: University of Virginia Topology Seminar, Charlottesville, VA
 - April 2025: University at Albany Algebra/Topology Seminar, Albany, NY
+- April 2025: University of Pennsylvania Geometry-Topology Seminar, Philadelphia, PA
 - May 2025: [Cornell Topology Festival](https://e.math.cornell.edu/sites/topology/2025/index_2025.php), Ithaca, NY
 - May 2025: [New horizons for equivariance in homotopy theory](https://www.newton.ac.uk/event/ehtw03/), Cambridge, UK
 - June 2025: Talbot Workshop, Cassopolis, MI
 
 <!-- ### Past Events -->
+<!-- - March 2025: University of Virginia Topology Seminar, Charlottesville, VA -->
 <!-- - March 2025: [Upstate New York Topology Seminar](https://sites.google.com/view/unytsbinghamton/home), Binghamton, NY -->
 <!-- - December 2024: [Hot Topics: Life after the Telescope Conjecture](https://www.slmath.org/workshops/1103), Berkeley, CA -->
 <!-- - October 2024: [AMS Fall Eastern Sectional Meeting](https://www.ams.org/meetings/sectional/2317_program_ss10.html), Albany, NY -->
