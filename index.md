@@ -12,14 +12,14 @@ I enjoy thinking about mathematics at the interface between algebra and topology
 
 - equivariant stable homotopy theory,
 - algebraic K-theory, and
-- homological methods in finite group theory.
+- homological aspects of finite group theory.
 
 [__CV__](assets/pdf/cv-cv-2024-11-10.pdf) (Last updated: November 10, 2024)
 
 I pronounce my last name as "VOH-guh-lee" in English, but it's really [Swiss German](https://en.wiktionary.org/wiki/V%C3%B6geli) in origin.
 
-__Some things I'm involved in:__
-- I organize the <a href="https://sites.google.com/cornell.edu/cornell-drp">Cornell Directed Reading Program</a> along with [Alekos Robotis](https://aarobotis.github.io/).
+<!-- __Some things I'm involved in:__
+- I organize the <a href="https://sites.google.com/cornell.edu/cornell-drp">Cornell Directed Reading Program</a> along with [Alekos Robotis](https://aarobotis.github.io/). -->
 
 <!-- - I organize [HoMoToPIESS](homotopy) along with [Kimball Strong](https://e.math.cornell.edu/people/Kimball_Strong/). -->
 
@@ -42,13 +42,14 @@ with Simon Schmidt and [Moritz Weber](https://www.uni-saarland.de/lehrstuhl/webe
 ---
 
 ## Events
-- April 2025: University at Albany Algebra/Topology Seminar, Albany, NY
-- April 2025: University of Pennsylvania Geometry-Topology Seminar, Philadelphia, PA
-- May 2025: [Cornell Topology Festival](https://e.math.cornell.edu/sites/topology/2025/index_2025.php), Ithaca, NY
-- May 2025: [New horizons for equivariance in homotopy theory](https://www.newton.ac.uk/event/ehtw03/), Cambridge, UK
-- June 2025: Talbot Workshop, Cassopolis, MI
+- June 2025: [Macaulay2 Workshop](https://macaulay2.github.io/Workshop-2025-Madison/), Madison, WI
 
 <!-- ### Past Events -->
+<!-- - June 2025: Talbot Workshop, Cassopolis, MI -->
+<!-- - May 2025: [New horizons for equivariance in homotopy theory](https://www.newton.ac.uk/event/ehtw03/), Cambridge, UK -->
+<!-- - May 2025: [Cornell Topology Festival](https://e.math.cornell.edu/sites/topology/2025/index_2025.php), Ithaca, NY -->
+<!-- - April 2025: University of Pennsylvania Geometry-Topology Seminar, Philadelphia, PA -->
+<!-- - April 2025: University at Albany Algebra/Topology Seminar, Albany, NY -->
 <!-- - March 2025: University of Virginia Topology Seminar, Charlottesville, VA -->
 <!-- - March 2025: [Upstate New York Topology Seminar](https://sites.google.com/view/unytsbinghamton/home), Binghamton, NY -->
 <!-- - December 2024: [Hot Topics: Life after the Telescope Conjecture](https://www.slmath.org/workshops/1103), Berkeley, CA -->
@@ -96,5 +97,7 @@ Notes from a class aimed at high school students taught at [Splash](https://esp.
 
 #### __A puzzle: what comes next in the sequence?__  
 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 60, 61, 67, 71, 73, 79, 83, 89, 97, 101, 103, 107, 109, 113, 127, 131, 137, 139, 149, 151, 157, 163, 167, [???](https://oeis.org/A005180)
+
+---
 
 *Das Sph&auml;renspektrum hat der liebe Gott gemacht, alles andere ist Menschenwerk.*
