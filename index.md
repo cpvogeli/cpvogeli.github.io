@@ -6,15 +6,13 @@ layout: default
 ---
 <img src="assets/images/picture0.jpg" width=250 style="float: right; padding: 10pt">
 
-I'm a Ph.D. candidate in mathematics at [Cornell University](https://math.cornell.edu), advised by [Inna Zakharevich](https://pi.math.cornell.edu/~zakh). 
+I'm a Ph.D. candidate in mathematics at [Cornell University](https://math.cornell.edu), advised by [Inna Zakharevich](https://pi.math.cornell.edu/~zakh). I will be on the postdoctoral job market in the fall of 2025.
 
-I enjoy thinking about mathematics at the interface between algebra and topology. In particular, I'm interested in
+I enjoy thinking about mathematics at the interface between algebra and topology. My research focuses on algebraic K-theory, homological stability, and equivariant stable homotopy theory.
 
-- equivariant stable homotopy theory,
-- algebraic K-theory, and
-- homological aspects of finite group theory.
+<!-- __equivariant algebra__: the study of [Mackey functors](https://en.wikipedia.org/wiki/Mackey_functor) equivariant stable homotopy theory -->
 
-[__CV__](assets/pdf/cv-cv-2024-11-10.pdf) (Last updated: November 10, 2024)
+[__CV__](assets/pdf/cv-cv-2025-07-15.pdf) (Last updated: July 15, 2025)
 
 I pronounce my last name as "VOH-guh-lee" in English, but it's really [Swiss German](https://en.wiktionary.org/wiki/V%C3%B6geli) in origin.
 
@@ -25,24 +23,9 @@ I pronounce my last name as "VOH-guh-lee" in English, but it's really [Swiss Ger
 
 ---
 
-## Research
-
-__The Galois-equivariant $$K$$-theory of finite fields__ <br> 
-with [David Chan](https://sites.google.com/view/davidchanmath). *Proceedings of the London Mathematical Society* (2025). <br>
-[[arXiv:2406.19481](https://arxiv.org/abs/2406.19481)] [[doi:10.1112/plms.70012](https://doi.org/10.1112/plms.70012)]
-
-__Bredon homological stability for configuration spaces of $$G$$-manifolds__ <br>
-with [Eva Belmont](https://sites.google.com/case.edu/ebelmont) and [J.D. Quigley](https://quigleyjd.github.io/). <br>
-[[arXiv:2311.02459](https://arxiv.org/abs/2311.02459)]
-
-__Uniformly vertex-transitive graphs__ <br>
-with Simon Schmidt and [Moritz Weber](https://www.uni-saarland.de/lehrstuhl/weber-moritz.html). <br>
-[[arXiv:1912.00060](https://arxiv.org/abs/1912.00060)]
-
----
-
 ## Events
 - June 2025: [Macaulay2 Workshop](https://macaulay2.github.io/Workshop-2025-Madison/), Madison, WI
+- October 2025: [AMS Fall Central Sectional Meeting](https://www.ams.org/meetings/sectional/2322_program_ss12.html), St. Louis, MO
 
 <!-- ### Past Events -->
 <!-- - June 2025: Talbot Workshop, Cassopolis, MI -->
@@ -71,16 +54,30 @@ with Simon Schmidt and [Moritz Weber](https://www.uni-saarland.de/lehrstuhl/webe
 
 ---
 
-## Expository & Other Writing
+## Research
 
-[__The Homotopy Theory of Orthogonal Spectra__]() (in preparation)  
-A writeup I prepared for my Admission to Candidacy Exam (A Exam) in November 2022.
+__The Galois-equivariant $$K$$-theory of finite fields__ <br> 
+with [David Chan](https://sites.google.com/view/davidchanmath). *Proceedings of the London Mathematical Society* (2025). <br>
+[[arXiv:2406.19481](https://arxiv.org/abs/2406.19481)] [[doi:10.1112/plms.70012](https://doi.org/10.1112/plms.70012)]
+
+__Bredon homological stability for configuration spaces of $$G$$-manifolds__ <br>
+with [Eva Belmont](https://sites.google.com/case.edu/ebelmont) and [J.D. Quigley](https://quigleyjd.github.io/). <br>
+[[arXiv:2311.02459](https://arxiv.org/abs/2311.02459)]
+
+__Uniformly vertex-transitive graphs__ <br>
+with Simon Schmidt and [Moritz Weber](https://www.uni-saarland.de/lehrstuhl/weber-moritz.html). <br>
+[[arXiv:1912.00060](https://arxiv.org/abs/1912.00060)]
+
+### Expository & Other Writing
+
+<!-- [__The Homotopy Theory of Orthogonal Spectra__]() (in preparation)  
+A writeup I prepared for my Admission to Candidacy Exam (A Exam) in November 2022. -->
 
 [__English Translation of tom Dieck's *Faserb&uuml;ndel mit Gruppenoperation*__](assets/pdf/dieck-buendel.pdf)  
 Translation to fulfil the language requirement of the Cornell mathematics graduate program.
 
-[__5/8 and Isoclinism__]() (in preparation)  
-Notes on the commuting probability of a finite group and the connection to isoclinism. Prepared for a talk given at the [Olivetti Club](https://pi.math.cornell.edu/m/node/10767) in September 2021.
+<!-- [__5/8 and Isoclinism__]() (in preparation)  
+Notes on the commuting probability of a finite group and the connection to isoclinism. Prepared for a talk given at the [Olivetti Club](https://pi.math.cornell.edu/m/node/10767) in September 2021. -->
 
 <!-- [__Counting Symmetries with Group Actions__](assets/pdf/group-actions.pdf)  
 Notes from a class aimed at high school students taught at [Splash](https://esp.mit.edu/learn/index.html) in November 2019. -->
