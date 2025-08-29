@@ -4,7 +4,7 @@
 
 layout: default
 ---
-<img src="assets/images/picture0.jpg" width=250 style="float: right; padding: 10pt">
+<img src="assets/images/picture0.jpg" width="250" style="float: right; padding: 10pt">
 
 I'm a Ph.D. candidate in mathematics at [Cornell University](https://math.cornell.edu), advised by [Inna Zakharevich](https://pi.math.cornell.edu/~zakh). I will be on the postdoctoral job market in the fall of 2025.
 
@@ -12,7 +12,7 @@ I enjoy thinking about mathematics at the interface between algebra and topology
 
 <!-- __equivariant algebra__: the study of [Mackey functors](https://en.wikipedia.org/wiki/Mackey_functor) equivariant stable homotopy theory -->
 
-[__CV__](assets/pdf/cv-cv-2025-07-15.pdf) (Last updated: July 15, 2025)
+[__CV__](assets/pdf/cv-cv-2025-08-29.pdf) (Last updated: August 29, 2025)
 
 I pronounce my last name as "VOH-guh-lee" in English, but it's really [Swiss German](https://en.wiktionary.org/wiki/V%C3%B6geli) in origin.
 
@@ -24,10 +24,11 @@ I pronounce my last name as "VOH-guh-lee" in English, but it's really [Swiss Ger
 ---
 
 ## Events
-- June 2025: [Macaulay2 Workshop](https://macaulay2.github.io/Workshop-2025-Madison/), Madison, WI
 - October 2025: [AMS Fall Central Sectional Meeting](https://www.ams.org/meetings/sectional/2322_program_ss12.html), St. Louis, MO
+- January 2026: Joint Mathematics Meetings, Washington, DC 
 
 <!-- ### Past Events -->
+<!-- - June 2025: [Macaulay2 Workshop](https://macaulay2.github.io/Workshop-2025-Madison/), Madison, WI -->
 <!-- - June 2025: Talbot Workshop, Cassopolis, MI -->
 <!-- - May 2025: [New horizons for equivariance in homotopy theory](https://www.newton.ac.uk/event/ehtw03/), Cambridge, UK -->
 <!-- - May 2025: [Cornell Topology Festival](https://e.math.cornell.edu/sites/topology/2025/index_2025.php), Ithaca, NY -->
@@ -56,17 +57,26 @@ I pronounce my last name as "VOH-guh-lee" in English, but it's really [Swiss Ger
 
 ## Research
 
-__The Galois-equivariant $$K$$-theory of finite fields__ <br> 
-with [David Chan](https://sites.google.com/view/davidchanmath). *Proceedings of the London Mathematical Society* (2025). <br>
+### Publications
+
+__The Galois-equivariant $$K$$-theory of finite fields__  
+with [David Chan](https://sites.google.com/view/davidchanmath). *Proceedings of the London Mathematical Society* (2025).  
 [[arXiv:2406.19481](https://arxiv.org/abs/2406.19481)] [[doi:10.1112/plms.70012](https://doi.org/10.1112/plms.70012)]
 
-__Bredon homological stability for configuration spaces of $$G$$-manifolds__ <br>
-with [Eva Belmont](https://sites.google.com/case.edu/ebelmont) and [J.D. Quigley](https://quigleyjd.github.io/). <br>
+### Preprints
+
+__Bredon homological stability for configuration spaces of $$G$$-manifolds__  
+with [Eva Belmont](https://sites.google.com/case.edu/ebelmont) and [J.D. Quigley](https://quigleyjd.github.io/).  
 [[arXiv:2311.02459](https://arxiv.org/abs/2311.02459)]
 
-__Uniformly vertex-transitive graphs__ <br>
-with Simon Schmidt and [Moritz Weber](https://www.uni-saarland.de/lehrstuhl/weber-moritz.html). <br>
+__Uniformly vertex-transitive graphs__  
+with Simon Schmidt and [Moritz Weber](https://www.uni-saarland.de/lehrstuhl/weber-moritz.html).  
 [[arXiv:1912.00060](https://arxiv.org/abs/1912.00060)]
+
+### Software
+
+__$$C_p$$-Mackey functors in Macaulay2__  
+with Thomas Brazelton, David Chan, Benjamin Mudrak, Ben Spitz, Chenglu Wang, Michael Zeng, and Sasha Zotine. *In preparation.*
 
 ### Expository & Other Writing
 
