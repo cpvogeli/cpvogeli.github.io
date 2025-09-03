@@ -76,7 +76,7 @@ with Simon Schmidt and [Moritz Weber](https://www.uni-saarland.de/lehrstuhl/webe
 ### Software
 
 __$$C_p$$-Mackey functors in Macaulay2__  
-with Thomas Brazelton, David Chan, Benjamin Mudrak, Ben Spitz, Chenglu Wang, Michael Zeng, and Sasha Zotine. *In preparation.*
+with [Thomas Brazelton](https://tbrazel.github.io/), [David Chan](https://sites.google.com/view/davidchanmath), [Benjamin Mudrak](https://benjaminmudrak.github.io/), [Ben Spitz](https://benspitz.com/), [Chenglu Wang](https://chengluw.github.io/), [Michael Zeng](https://sites.google.com/uw.edu/zengrf/), and [Sasha Zotine](https://sites.google.com/view/szotine/home). *In preparation.*
 
 ### Expository & Other Writing
 
