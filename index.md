@@ -65,6 +65,10 @@ with [David Chan](https://sites.google.com/view/davidchanmath). *Proceedings of 
 
 ### Preprints
 
+__$$C_p$$-Mackey functors in Macaulay2__  
+with [Thomas Brazelton](https://tbrazel.github.io/), [David Chan](https://sites.google.com/view/davidchanmath), [Benjamin Mudrak](https://benjaminmudrak.github.io/), [Ben Spitz](https://benspitz.com/), [Chenglu Wang](https://chengluw.github.io/), [Michael Zeng](https://sites.google.com/uw.edu/zengrf/), and [Sasha Zotine](https://sites.google.com/view/szotine/home).  
+[[arXiv:2509.05456](https://arxiv.org/abs/2509.05456)]
+
 __Bredon homological stability for configuration spaces of $$G$$-manifolds__  
 with [Eva Belmont](https://sites.google.com/case.edu/ebelmont) and [J.D. Quigley](https://quigleyjd.github.io/).  
 [[arXiv:2311.02459](https://arxiv.org/abs/2311.02459)]
@@ -75,8 +79,7 @@ with Simon Schmidt and [Moritz Weber](https://www.uni-saarland.de/lehrstuhl/webe
 
 ### Software
 
-__$$C_p$$-Mackey functors in Macaulay2__  
-with [Thomas Brazelton](https://tbrazel.github.io/), [David Chan](https://sites.google.com/view/davidchanmath), [Benjamin Mudrak](https://benjaminmudrak.github.io/), [Ben Spitz](https://benspitz.com/), [Chenglu Wang](https://chengluw.github.io/), [Michael Zeng](https://sites.google.com/uw.edu/zengrf/), and [Sasha Zotine](https://sites.google.com/view/szotine/home). *In preparation.*
+[```CpMackeyFunctors```](): a [Macaulay2](https://macaulay2.com/) package for homological algebra with $$C_p$$-Mackey functors (to be included with a future release)
 
 ### Expository & Other Writing
 
