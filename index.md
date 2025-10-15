@@ -4,15 +4,15 @@
 
 layout: default
 ---
-<img src="assets/images/picture0.jpg" width="250" style="float: right; padding: 10pt">
+<img src="assets/images/picture1.jpg" width="200" style="float: right; padding: 10pt">
 
 I'm a Ph.D. candidate in mathematics at [Cornell University](https://math.cornell.edu), advised by [Inna Zakharevich](https://pi.math.cornell.edu/~zakh). I will be on the postdoctoral job market in the fall of 2025.
 
-I enjoy thinking about mathematics at the interface between algebra and topology. My research focuses on algebraic K-theory, homological stability, and equivariant stable homotopy theory.
+I'm an algebraic topologist, focusing on algebraic K-theory and equivariant stable homotopy theory. I've recently taken an interest in connections to modular representation theory.
 
 <!-- __equivariant algebra__: the study of [Mackey functors](https://en.wikipedia.org/wiki/Mackey_functor) equivariant stable homotopy theory -->
 
-[__CV__](assets/pdf/cv-cv-2025-08-29.pdf) (Last updated: August 29, 2025)
+[__CV__](assets/pdf/cv-cv-2025-10-15.pdf) (Last updated: October 15, 2025)
 
 I pronounce my last name as "VOH-guh-lee" in English, but it's really [Swiss German](https://en.wiktionary.org/wiki/V%C3%B6geli) in origin.
 
@@ -66,11 +66,11 @@ with [David Chan](https://sites.google.com/view/davidchanmath). *Proceedings of 
 ### Preprints
 
 __$$C_p$$-Mackey functors in Macaulay2__  
-with [Thomas Brazelton](https://tbrazel.github.io/), [David Chan](https://sites.google.com/view/davidchanmath), [Benjamin Mudrak](https://benjaminmudrak.github.io/), [Ben Spitz](https://benspitz.com/), [Chenglu Wang](https://chengluw.github.io/), [Michael Zeng](https://sites.google.com/uw.edu/zengrf/), and [Sasha Zotine](https://sites.google.com/view/szotine/home).  
+with [Thomas Brazelton](https://tbrazel.github.io/), [David Chan](https://sites.google.com/view/davidchanmath), [Benjamin Mudrak](https://benjaminmudrak.github.io/), [Ben Spitz](https://benspitz.com/), [Chenglu Wang](https://chengluw.github.io/), [Michael Zeng](https://sites.google.com/uw.edu/zengrf/), and [Sasha Zotine](https://sites.google.com/view/szotine/home). Submitted.  
 [[arXiv:2509.05456](https://arxiv.org/abs/2509.05456)]
 
 __Bredon homological stability for configuration spaces of $$G$$-manifolds__  
-with [Eva Belmont](https://sites.google.com/case.edu/ebelmont) and [J.D. Quigley](https://quigleyjd.github.io/).  
+with [Eva Belmont](https://sites.google.com/case.edu/ebelmont) and [J.D. Quigley](https://quigleyjd.github.io/). Submitted.  
 [[arXiv:2311.02459](https://arxiv.org/abs/2311.02459)]
 
 __Uniformly vertex-transitive graphs__  
