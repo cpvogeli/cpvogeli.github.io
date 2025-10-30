@@ -12,7 +12,7 @@ I'm an algebraic topologist, focusing on algebraic K-theory and equivariant stab
 
 <!-- __equivariant algebra__: the study of [Mackey functors](https://en.wikipedia.org/wiki/Mackey_functor) equivariant stable homotopy theory -->
 
-[__CV__](assets/pdf/cv-cv-2025-10-15.pdf) (Last updated: October 15, 2025)
+[__CV__](assets/pdf/cv-cv-2025-10-29.pdf) (Last updated: October 29, 2025)
 
 I pronounce my last name as "VOH-guh-lee" in English, but it's really [Swiss German](https://en.wiktionary.org/wiki/V%C3%B6geli) in origin.
 
@@ -64,6 +64,9 @@ with [David Chan](https://sites.google.com/view/davidchanmath). *Proceedings of 
 [[arXiv:2406.19481](https://arxiv.org/abs/2406.19481)] [[doi:10.1112/plms.70012](https://doi.org/10.1112/plms.70012)]
 
 ### Preprints
+
+__Derived induction theory for the K-theory of modular group algebras__  
+[[arXiv:2510.25763](https://arxiv.org/abs/2510.25763)]
 
 __$$C_p$$-Mackey functors in Macaulay2__  
 with [Thomas Brazelton](https://tbrazel.github.io/), [David Chan](https://sites.google.com/view/davidchanmath), [Benjamin Mudrak](https://benjaminmudrak.github.io/), [Ben Spitz](https://benspitz.com/), [Chenglu Wang](https://chengluw.github.io/), [Michael Zeng](https://sites.google.com/uw.edu/zengrf/), and [Sasha Zotine](https://sites.google.com/view/szotine/home). Submitted.  
