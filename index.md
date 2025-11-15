@@ -59,7 +59,7 @@ I pronounce my last name as "VOH-guh-lee" in English, but it's really [Swiss Ger
 
 ### Publications
 
-__The Galois-equivariant $$K$$-theory of finite fields__  
+__The Galois-equivariant K-theory of finite fields__  
 with [David Chan](https://sites.google.com/view/davidchanmath). *Proceedings of the London Mathematical Society* (2025).  
 [[arXiv:2406.19481](https://arxiv.org/abs/2406.19481)] [[doi:10.1112/plms.70012](https://doi.org/10.1112/plms.70012)]
 
@@ -82,7 +82,7 @@ with Simon Schmidt and [Moritz Weber](https://www.uni-saarland.de/lehrstuhl/webe
 
 ### Software
 
-[```CpMackeyFunctors```](): a [Macaulay2](https://macaulay2.com/) package for homological algebra with $$C_p$$-Mackey functors (to be included with a future release)
+[```CpMackeyFunctors```](https://macaulay2.com/doc/Macaulay2/share/doc/Macaulay2/CpMackeyFunctors/html/index.html): a [Macaulay2](https://macaulay2.com/) package for homological algebra with $$C_p$$-Mackey functors
 
 ### Expository & Other Writing
 
