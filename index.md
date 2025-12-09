@@ -82,21 +82,16 @@ with Simon Schmidt and [Moritz Weber](https://www.uni-saarland.de/lehrstuhl/webe
 
 ### Software
 
-[```CpMackeyFunctors```](https://macaulay2.com/doc/Macaulay2/share/doc/Macaulay2/CpMackeyFunctors/html/index.html): a [Macaulay2](https://macaulay2.com/) package for homological algebra with $$C_p$$-Mackey functors
+[```tambara.fun```](https://tambara.fun/): database of Tambara functors *(coming soon!)*  
+(with [David Chan](https://sites.google.com/view/davidchanmath), [David Mehrle](https://www.davidmehrle.com/), and [Ben Spitz](https://benspitz.com/))
+
+[```CpMackeyFunctors```](https://macaulay2.com/doc/Macaulay2/share/doc/Macaulay2/CpMackeyFunctors/html/index.html): a [Macaulay2](https://macaulay2.com/) package for homological algebra with $$C_p$$-Mackey functors  
+(with [Thomas Brazelton](https://tbrazel.github.io/), [David Chan](https://sites.google.com/view/davidchanmath), [Benjamin Mudrak](https://benjaminmudrak.github.io/), [Ben Spitz](https://benspitz.com/), [Chenglu Wang](https://chengluw.github.io/), [Michael Zeng](https://sites.google.com/uw.edu/zengrf/), and [Sasha Zotine](https://sites.google.com/view/szotine/home))
 
 ### Expository & Other Writing
 
-<!-- [__The Homotopy Theory of Orthogonal Spectra__]() (in preparation)  
-A writeup I prepared for my Admission to Candidacy Exam (A Exam) in November 2022. -->
-
 [__English Translation of tom Dieck's *Faserb&uuml;ndel mit Gruppenoperation*__](assets/pdf/dieck-buendel.pdf)  
 Translation to fulfil the language requirement of the Cornell mathematics graduate program.
-
-<!-- [__5/8 and Isoclinism__]() (in preparation)  
-Notes on the commuting probability of a finite group and the connection to isoclinism. Prepared for a talk given at the [Olivetti Club](https://pi.math.cornell.edu/m/node/10767) in September 2021. -->
-
-<!-- [__Counting Symmetries with Group Actions__](assets/pdf/group-actions.pdf)  
-Notes from a class aimed at high school students taught at [Splash](https://esp.mit.edu/learn/index.html) in November 2019. -->
 
 <!-- --- -->
 
