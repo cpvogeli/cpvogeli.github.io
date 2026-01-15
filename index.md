@@ -6,7 +6,7 @@ layout: default
 ---
 <img src="assets/images/picture1.jpg" width="200" style="float: right; padding: 10pt">
 
-I'm a Ph.D. candidate in mathematics at [Cornell University](https://math.cornell.edu), advised by [Inna Zakharevich](https://pi.math.cornell.edu/~zakh). I will be on the postdoctoral job market in the fall of 2025.
+I'm a Ph.D. candidate in mathematics at [Cornell University](https://math.cornell.edu), advised by [Inna Zakharevich](https://pi.math.cornell.edu/~zakh). I am on the 2025-2026 postdoctoral job market.
 
 I'm an algebraic topologist, focusing on algebraic K-theory and equivariant stable homotopy theory. I've recently taken an interest in connections to modular representation theory.
 
@@ -24,10 +24,14 @@ I pronounce my last name as "VOH-guh-lee" in English, but it's really [Swiss Ger
 ---
 
 ## Events
-- October 2025: [AMS Fall Central Sectional Meeting](https://www.ams.org/meetings/sectional/2322_program_ss12.html), St. Louis, MO
-- January 2026: Joint Mathematics Meetings, Washington, DC 
+
+- March 2026: [AMS Spring Eastern Sectional Meeting](https://www.ams.org/meetings/sectional/2331_program_ss9.html), Boston, MA
+- April 2026: [MSU Topology Seminar](https://sites.google.com/msu.edu/msutopologyrtg/activities/topology-seminar), East Lansing, MI
+- May 2026: [Cornell Topology Festival](https://e.math.cornell.edu/sites/topology/2026/index_2026.php), Ithaca, NY
 
 <!-- ### Past Events -->
+<!-- - October 2025: [AMS Fall Central Sectional Meeting](https://www.ams.org/meetings/sectional/2322_program_ss12.html), St. Louis, MO -->
+<!-- - January 2026: Joint Mathematics Meetings, Washington, DC  -->
 <!-- - June 2025: [Macaulay2 Workshop](https://macaulay2.github.io/Workshop-2025-Madison/), Madison, WI -->
 <!-- - June 2025: Talbot Workshop, Cassopolis, MI -->
 <!-- - May 2025: [New horizons for equivariance in homotopy theory](https://www.newton.ac.uk/event/ehtw03/), Cambridge, UK -->
