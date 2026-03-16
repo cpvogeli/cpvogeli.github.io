@@ -14,11 +14,6 @@ I'm an algebraic topologist, focusing on algebraic K-theory and equivariant stab
 
 I pronounce my last name as "VOH-guh-lee" in English, but it's really [Swiss German](https://en.wiktionary.org/wiki/V%C3%B6geli) in origin.
 
-<!-- __Some things I'm involved in:__
-- I organize the <a href="https://sites.google.com/cornell.edu/cornell-drp">Cornell Directed Reading Program</a> along with [Alekos Robotis](https://aarobotis.github.io/). -->
-
-<!-- - I organize [HoMoToPIESS](homotopy) along with [Kimball Strong](https://e.math.cornell.edu/people/Kimball_Strong/). -->
-
 ---
 
 ## Events
@@ -61,6 +56,10 @@ I pronounce my last name as "VOH-guh-lee" in English, but it's really [Swiss Ger
 
 ### Publications
 
+__$$C_p$$-Mackey functors in Macaulay2__  
+with [Thomas Brazelton](https://tbrazel.github.io/), [David Chan](https://sites.google.com/view/davidchanmath), [Benjamin Mudrak](https://benjaminmudrak.github.io/), [Ben Spitz](https://benspitz.com/), [Chenglu Wang](https://chengluw.github.io/), [Michael Zeng](https://sites.google.com/uw.edu/zengrf/), and [Sasha Zotine](https://sites.google.com/view/szotine/home). *Journal of Software for Algebra and Geometry*, to appear.  
+[[arXiv:2509.05456](https://arxiv.org/abs/2509.05456)]
+
 __The Galois-equivariant K-theory of finite fields__  
 with [David Chan](https://sites.google.com/view/davidchanmath). *Proceedings of the London Mathematical Society* (2025).  
 [[arXiv:2406.19481](https://arxiv.org/abs/2406.19481)] [[doi:10.1112/plms.70012](https://doi.org/10.1112/plms.70012)]
@@ -69,10 +68,6 @@ with [David Chan](https://sites.google.com/view/davidchanmath). *Proceedings of 
 
 __Derived induction theory for the K-theory of modular group algebras__  
 [[arXiv:2510.25763](https://arxiv.org/abs/2510.25763)]
-
-__$$C_p$$-Mackey functors in Macaulay2__  
-with [Thomas Brazelton](https://tbrazel.github.io/), [David Chan](https://sites.google.com/view/davidchanmath), [Benjamin Mudrak](https://benjaminmudrak.github.io/), [Ben Spitz](https://benspitz.com/), [Chenglu Wang](https://chengluw.github.io/), [Michael Zeng](https://sites.google.com/uw.edu/zengrf/), and [Sasha Zotine](https://sites.google.com/view/szotine/home). Submitted.  
-[[arXiv:2509.05456](https://arxiv.org/abs/2509.05456)]
 
 __Bredon homological stability for configuration spaces of $$G$$-manifolds__  
 with [Eva Belmont](https://sites.google.com/case.edu/ebelmont) and [J.D. Quigley](https://quigleyjd.github.io/). Submitted.  
