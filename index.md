@@ -6,13 +6,11 @@ layout: default
 ---
 <img src="assets/images/picture1.jpg" width="200" style="float: right; padding: 10pt">
 
-I'm a Ph.D. candidate in mathematics at [Cornell University](https://math.cornell.edu), advised by [Inna Zakharevich](https://pi.math.cornell.edu/~zakh). I am on the 2025-2026 postdoctoral job market.
+I'm a Ph.D. candidate in mathematics at [Cornell University](https://math.cornell.edu), advised by [Inna Zakharevich](https://pi.math.cornell.edu/~zakh).
 
 I'm an algebraic topologist, focusing on algebraic K-theory and equivariant stable homotopy theory. I've recently taken an interest in connections to modular representation theory.
 
 <!-- __equivariant algebra__: the study of [Mackey functors](https://en.wikipedia.org/wiki/Mackey_functor) equivariant stable homotopy theory -->
-
-[__CV__](assets/pdf/cv-cv-2026-02-26.pdf) (Last updated: February 26, 2026)
 
 I pronounce my last name as "VOH-guh-lee" in English, but it's really [Swiss German](https://en.wiktionary.org/wiki/V%C3%B6geli) in origin.
 
