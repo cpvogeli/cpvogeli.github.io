@@ -18,11 +18,12 @@ I pronounce my last name as "VOH-guh-lee" in English, but it's really [Swiss Ger
 
 ## Events
 
-- March 2026: [AMS Spring Eastern Sectional Meeting](https://www.ams.org/meetings/sectional/2331_program_ss9.html), Boston, MA
-- April 2026: [MSU Topology Seminar](https://sites.google.com/msu.edu/msutopologyrtg/activities/topology-seminar), East Lansing, MI
 - May 2026: [Cornell Topology Festival](https://e.math.cornell.edu/sites/topology/2026/index_2026.php), Ithaca, NY
+- June 2026: [Machine Computation in Homotopy Theory](https://icerm.brown.edu/program/topical_workshop/tw-26-mch), Providence, RI
 
 <!-- ### Past Events -->
+<!-- - April 2026: [MSU Topology Seminar](https://sites.google.com/msu.edu/msutopologyrtg/activities/topology-seminar), East Lansing, MI -->
+<!-- - March 2026: [AMS Spring Eastern Sectional Meeting](https://www.ams.org/meetings/sectional/2331_program_ss9.html), Boston, MA -->
 <!-- - October 2025: [AMS Fall Central Sectional Meeting](https://www.ams.org/meetings/sectional/2322_program_ss12.html), St. Louis, MO -->
 <!-- - January 2026: Joint Mathematics Meetings, Washington, DC  -->
 <!-- - June 2025: [Macaulay2 Workshop](https://macaulay2.github.io/Workshop-2025-Madison/), Madison, WI -->
