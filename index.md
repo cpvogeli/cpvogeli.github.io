@@ -80,12 +80,12 @@ with Simon Schmidt and [Moritz Weber](https://www.uni-saarland.de/lehrstuhl/webe
 
 ### Software
 
-[```BredonHomology.m2```](https://github.com/cpvogeli/BredonHomology): Bredon equivariant homology of simplicial complexes in [Macaulay2](https://macaulay2.com/)
+[```BredonHomology.m2```](https://github.com/cpvogeli/BredonHomology): Bredon equivariant homology of simplicial complexes with $$C_p$$-action in [Macaulay2](https://macaulay2.com/) (*work in progress!*)
 
 <!-- [```tambara.fun```](https://tambara.fun/): database of Tambara functors *(coming soon!)*  
 (with [David Chan](https://sites.google.com/view/davidchanmath), [David Mehrle](https://www.davidmehrle.com/), and [Ben Spitz](https://benspitz.com/)) -->
 
-[```CpMackeyFunctors.m2```](https://macaulay2.com/doc/Macaulay2/share/doc/Macaulay2/CpMackeyFunctors/html/index.html): a [Macaulay2](https://macaulay2.com/) package for homological algebra with $$C_p$$-Mackey functors  
+[```CpMackeyFunctors.m2```](https://macaulay2.com/doc/Macaulay2/share/doc/Macaulay2/CpMackeyFunctors/html/index.html): homological algebra with $$C_p$$-Mackey functors in [Macaulay2](https://macaulay2.com/)
 (with [Thomas Brazelton](https://tbrazel.github.io/), [David Chan](https://sites.google.com/view/davidchanmath), [Benjamin Mudrak](https://benjaminmudrak.github.io/), [Ben Spitz](https://benspitz.com/), [Chenglu Wang](https://chengluw.github.io/), [Michael Zeng](https://sites.google.com/uw.edu/zengrf/), and [Sasha Zotine](https://sites.google.com/view/szotine/home))
 
 ### Expository & Other Writing
