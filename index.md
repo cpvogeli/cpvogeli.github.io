@@ -18,10 +18,10 @@ I pronounce my last name as "VOH-guh-lee" in English, but it's really [Swiss Ger
 
 ## Events
 
-- May 2026: [Cornell Topology Festival](https://e.math.cornell.edu/sites/topology/2026/index_2026.php), Ithaca, NY
 - June 2026: [Machine Computation in Homotopy Theory](https://icerm.brown.edu/program/topical_workshop/tw-26-mch), Providence, RI
 
 <!-- ### Past Events -->
+<!-- - May 2026: [Cornell Topology Festival](https://e.math.cornell.edu/sites/topology/2026/index_2026.php), Ithaca, NY -->
 <!-- - April 2026: [MSU Topology Seminar](https://sites.google.com/msu.edu/msutopologyrtg/activities/topology-seminar), East Lansing, MI -->
 <!-- - March 2026: [AMS Spring Eastern Sectional Meeting](https://www.ams.org/meetings/sectional/2331_program_ss9.html), Boston, MA -->
 <!-- - October 2025: [AMS Fall Central Sectional Meeting](https://www.ams.org/meetings/sectional/2322_program_ss12.html), St. Louis, MO -->
@@ -80,10 +80,12 @@ with Simon Schmidt and [Moritz Weber](https://www.uni-saarland.de/lehrstuhl/webe
 
 ### Software
 
-[```tambara.fun```](https://tambara.fun/): database of Tambara functors *(coming soon!)*  
-(with [David Chan](https://sites.google.com/view/davidchanmath), [David Mehrle](https://www.davidmehrle.com/), and [Ben Spitz](https://benspitz.com/))
+[```BredonHomology.m2```](https://github.com/cpvogeli/BredonHomology): Bredon equivariant homology of simplicial complexes in [Macaulay2](https://macaulay2.com/)
 
-[```CpMackeyFunctors```](https://macaulay2.com/doc/Macaulay2/share/doc/Macaulay2/CpMackeyFunctors/html/index.html): a [Macaulay2](https://macaulay2.com/) package for homological algebra with $$C_p$$-Mackey functors  
+<!-- [```tambara.fun```](https://tambara.fun/): database of Tambara functors *(coming soon!)*  
+(with [David Chan](https://sites.google.com/view/davidchanmath), [David Mehrle](https://www.davidmehrle.com/), and [Ben Spitz](https://benspitz.com/)) -->
+
+[```CpMackeyFunctors.m2```](https://macaulay2.com/doc/Macaulay2/share/doc/Macaulay2/CpMackeyFunctors/html/index.html): a [Macaulay2](https://macaulay2.com/) package for homological algebra with $$C_p$$-Mackey functors  
 (with [Thomas Brazelton](https://tbrazel.github.io/), [David Chan](https://sites.google.com/view/davidchanmath), [Benjamin Mudrak](https://benjaminmudrak.github.io/), [Ben Spitz](https://benspitz.com/), [Chenglu Wang](https://chengluw.github.io/), [Michael Zeng](https://sites.google.com/uw.edu/zengrf/), and [Sasha Zotine](https://sites.google.com/view/szotine/home))
 
 ### Expository & Other Writing
