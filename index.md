@@ -1,26 +1,23 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
 ---
 <img src="assets/images/picture1.jpg" width="200" style="float: right; padding: 10pt">
 
-I'm a Ph.D. candidate in mathematics at [Cornell University](https://math.cornell.edu), advised by [Inna Zakharevich](https://pi.math.cornell.edu/~zakh).
+I'm a postdoctoral associate in the [Department of Mathematics at Cornell University](https://math.cornell.edu).
+I completed my Ph.D. at Cornell in May 2026 under the supervision of [Inna Zakharevich](https://pi.math.cornell.edu/~zakh).
 
-I'm an algebraic topologist, focusing on algebraic K-theory and equivariant stable homotopy theory. I've recently taken an interest in connections to modular representation theory.
+I'm a part of the [Active Learning Initiative](https://teaching.cornell.edu/grants-awards/faculty-instructors/active-learning-initiative) at Cornell, where I help improve Cornell's engineering mathematics courses.
 
-<!-- __equivariant algebra__: the study of [Mackey functors](https://en.wikipedia.org/wiki/Mackey_functor) equivariant stable homotopy theory -->
+My mathematical research centers on algebraic topology, with a particular emphasis on algebraic K-theory, equivariant stable homotopy theory, and connections to modular representation theory.
 
 I pronounce my last name as "VOH-guh-lee" in English, but it's really [Swiss German](https://en.wiktionary.org/wiki/V%C3%B6geli) in origin.
 
----
+<!-- --- -->
 
-## Events
-
-- June 2026: [Machine Computation in Homotopy Theory](https://icerm.brown.edu/program/topical_workshop/tw-26-mch), Providence, RI
+<!-- ## Events -->
 
 <!-- ### Past Events -->
+<!-- - June 2026: [Machine Computation in Homotopy Theory](https://icerm.brown.edu/program/topical_workshop/tw-26-mch), Providence, RI -->
 <!-- - May 2026: [Cornell Topology Festival](https://e.math.cornell.edu/sites/topology/2026/index_2026.php), Ithaca, NY -->
 <!-- - April 2026: [MSU Topology Seminar](https://sites.google.com/msu.edu/msutopologyrtg/activities/topology-seminar), East Lansing, MI -->
 <!-- - March 2026: [AMS Spring Eastern Sectional Meeting](https://www.ams.org/meetings/sectional/2331_program_ss9.html), Boston, MA -->
@@ -42,14 +39,14 @@ I pronounce my last name as "VOH-guh-lee" in English, but it's really [Swiss Ger
 - January 2024: [Joint Mathematics Meetings](https://www.jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program_ss47.html), San Francisco, CA -->
 <!-- - November 2023: [BUGCAT](https://seminars.math.binghamton.edu/BUGCAT/index.html), Binghamton, NY -->
 <!-- - September 2023: [Algebraic K-Theory and Redshift](https://redshift.mathi.uni-heidelberg.de/), Mainz, DE -->
-<!-- - June 26-30, 2023: [Scissors Congruence, Algebraic K-theory, and Trace Methods](https://topology.math.indiana.edu/Summer2023/main.php), Bloomington, IN -->
-<!-- - May 5-7, 2023: [Cornell Topology Festival](https://e.math.cornell.edu/sites/topology/2023/index_2023.php), Ithaca, NY -->
-<!-- - April 15-16, 2023: [Mid-Atlantic Topology Conference](https://sites.google.com/view/mid-atlantic-topology/home), Philadelphia, PA -->
-<!-- - November 5-6, 2022: [BUGCAT](https://seminars.math.binghamton.edu/BUGCAT/index.html), Binghamton, NY -->
-<!-- - September 26-30, 2022: [European Autumn School in Topology](https://www.math.ru.nl/~sagave/east2022/), Utrecht, NL -->
-<!-- - August 8-11, 2022: [Communicating Mathematics](https://sites.google.com/view/communicating-math/), Ithaca, NY -->
-<!-- - June 27-30, 2022: [Homotopy Theory with Applications to Arithmetic and Geometry](http://www.fields.utoronto.ca/activities/21-22/homotopy), Toronto, ON -->
-<!-- - May 6-8, 2022: [Cornell Topology Festival](https://e.math.cornell.edu/sites/topology/2022/index_2022.php), Ithaca, NY -->
+<!-- - June 2023: [Scissors Congruence, Algebraic K-theory, and Trace Methods](https://topology.math.indiana.edu/Summer2023/main.php), Bloomington, IN -->
+<!-- - May 2023: [Cornell Topology Festival](https://e.math.cornell.edu/sites/topology/2023/index_2023.php), Ithaca, NY -->
+<!-- - April 2023: [Mid-Atlantic Topology Conference](https://sites.google.com/view/mid-atlantic-topology/home), Philadelphia, PA -->
+<!-- - November 2022: [BUGCAT](https://seminars.math.binghamton.edu/BUGCAT/index.html), Binghamton, NY -->
+<!-- - September 2022: [European Autumn School in Topology](https://www.math.ru.nl/~sagave/east2022/), Utrecht, NL -->
+<!-- - August 2022: [Communicating Mathematics](https://sites.google.com/view/communicating-math/), Ithaca, NY -->
+<!-- - June 2022: [Homotopy Theory with Applications to Arithmetic and Geometry](http://www.fields.utoronto.ca/activities/21-22/homotopy), Toronto, ON -->
+<!-- - May 2022: [Cornell Topology Festival](https://e.math.cornell.edu/sites/topology/2022/index_2022.php), Ithaca, NY -->
 
 ---
 
@@ -71,35 +68,32 @@ __Derived induction theory for the K-theory of modular group algebras__
 [[arXiv:2510.25763](https://arxiv.org/abs/2510.25763)]
 
 __Bredon homological stability for configuration spaces of $$G$$-manifolds__  
-with [Eva Belmont](https://sites.google.com/case.edu/ebelmont) and [J.D. Quigley](https://quigleyjd.github.io/). Submitted.  
+with [Eva Belmont](https://sites.google.com/case.edu/ebelmont) and [J.D. Quigley](https://quigleyjd.github.io/).  
 [[arXiv:2311.02459](https://arxiv.org/abs/2311.02459)]
 
 __Uniformly vertex-transitive graphs__  
 with Simon Schmidt and [Moritz Weber](https://www.uni-saarland.de/lehrstuhl/weber-moritz.html).  
 [[arXiv:1912.00060](https://arxiv.org/abs/1912.00060)]
 
-### Software
+---
+
+## Software
+
+<!-- [```MackeyFunctors.jl```](https://github.com/tbrazel/MackeyFunctors.jl): Mackey functors for arbitrary finite groups, built on [OSCAR](https://www.oscar-system.org/) in [Julia](https://julialang.org/) -->
 
 [```BredonHomology.m2```](https://github.com/cpvogeli/BredonHomology): Bredon equivariant homology of simplicial complexes with $$C_p$$-action in [Macaulay2](https://macaulay2.com/) (*work in progress!*)
 
 <!-- [```tambara.fun```](https://tambara.fun/): database of Tambara functors *(coming soon!)*  
 (with [David Chan](https://sites.google.com/view/davidchanmath), [David Mehrle](https://www.davidmehrle.com/), and [Ben Spitz](https://benspitz.com/)) -->
 
-[```CpMackeyFunctors.m2```](https://macaulay2.com/doc/Macaulay2/share/doc/Macaulay2/CpMackeyFunctors/html/index.html): homological algebra with $$C_p$$-Mackey functors in [Macaulay2](https://macaulay2.com/)
-(with [Thomas Brazelton](https://tbrazel.github.io/), [David Chan](https://sites.google.com/view/davidchanmath), [Benjamin Mudrak](https://benjaminmudrak.github.io/), [Ben Spitz](https://benspitz.com/), [Chenglu Wang](https://chengluw.github.io/), [Michael Zeng](https://sites.google.com/uw.edu/zengrf/), and [Sasha Zotine](https://sites.google.com/view/szotine/home))
+[```CpMackeyFunctors.m2```](https://macaulay2.com/doc/Macaulay2/share/doc/Macaulay2/CpMackeyFunctors/html/index.html): homological algebra with $$C_p$$-Mackey functors in [Macaulay2](https://macaulay2.com/). See the accompanying article above!
+
+---
 
 ### Expository & Other Writing
 
 [__English Translation of tom Dieck's *Faserb&uuml;ndel mit Gruppenoperation*__](assets/pdf/dieck-buendel.pdf)  
 Translation to fulfil the language requirement of the Cornell mathematics graduate program.
-
-<!-- --- -->
-
-<!-- ## Undergraduate research -->
-
-<!-- In the summer of 2019, I worked on research in computational aspects of quantum groups at [Universit&auml;t des Saarlandes](https://www.uni-saarland.de/en/department/mathematics.html) in the research group of [Moritz Weber](https://www.math.uni-sb.de/ag/speicher/weberE.html), supported by a DAAD RISE scholarship and by the DFG research center [SFB-TRR 195](https://www.computeralgebra.de/sfb/). -->
-
-<!-- In the summer of 2018, I worked on research in algebraic graph theory at [Imperial College London](https://www.imperial.ac.uk/mathematics) under [Joanna Fawcett](http://www.jfawcett.com/) as a part of the MIT-Imperial Research Exchange.		 -->
 
 ---
 
